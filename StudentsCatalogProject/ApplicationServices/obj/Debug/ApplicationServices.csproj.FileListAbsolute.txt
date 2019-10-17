@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\ApplicationServices.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\ApplicationServices.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\Data.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\Repositories.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\EntityFramework.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\Data.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\Data.dll.config
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\Repositories.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\Repositories.dll.config
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\bin\Debug\EntityFramework.xml
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\obj\Debug\ApplicationServices.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\obj\Debug\ApplicationServices.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\obj\Debug\ApplicationServices.csproj.CopyComplete
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\obj\Debug\ApplicationServices.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\ApplicationServices\obj\Debug\ApplicationServices.pdb

@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\Repositories.dll.config
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\Repositories.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\Repositories.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\Data.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\EntityFramework.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\Data.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\Data.dll.config
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\EntityFramework.xml
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\obj\Debug\Repositories.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\obj\Debug\Repositories.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Repositories\obj\Debug\Repositories.pdb

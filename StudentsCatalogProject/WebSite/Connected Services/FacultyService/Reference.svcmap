@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="f3568bd9-9f08-4892-912c-1bf7146478ab" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51863/Faculty.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Faculty.xsd" MetadataType="Schema" ID="11d45448-ecae-413c-946b-8d1a3dd7c35f" SourceId="1" SourceUrl="http://localhost:51863/Faculty.svc?xsd=xsd0" />
+    <MetadataFile FileName="Faculty1.xsd" MetadataType="Schema" ID="7f274413-f9d9-4d68-baad-b5d0487f2ed1" SourceId="1" SourceUrl="http://localhost:51863/Faculty.svc?xsd=xsd2" />
+    <MetadataFile FileName="Faculty.wsdl" MetadataType="Wsdl" ID="49e6c440-3f0f-4831-9c5e-ab69b1f27a57" SourceId="1" SourceUrl="http://localhost:51863/Faculty.svc?wsdl" />
+    <MetadataFile FileName="Faculty2.xsd" MetadataType="Schema" ID="ce8282f0-9376-41b5-a827-50565fcfe7c1" SourceId="1" SourceUrl="http://localhost:51863/Faculty.svc?xsd=xsd1" />
+    <MetadataFile FileName="Faculty.disco" MetadataType="Disco" ID="991677a6-bfe2-4c88-8618-8e1742e241c9" SourceId="1" SourceUrl="http://localhost:51863/Faculty.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

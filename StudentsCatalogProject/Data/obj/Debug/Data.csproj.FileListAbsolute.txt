@@ -1,0 +1,12 @@
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\Data.dll.config
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\Data.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\Data.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\EntityFramework.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\EntityFramework.xml
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\obj\Debug\Data.dll
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\obj\Debug\Data.pdb
+C:\Users\Acer\source\repos\StudentsCatalogProject\Data\obj\Debug\Data.csprojAssemblyReference.cache
